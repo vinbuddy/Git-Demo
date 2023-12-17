@@ -1,3 +1,4 @@
-function RunApp() {
-  console.log("Run js by fork (vindeptrai)");
+function start() {
+  console.log("Edited by vindeptrai)");
 }
+
